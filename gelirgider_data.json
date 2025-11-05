@@ -442,241 +442,241 @@
     "tutar": 18300
   },
   {
-  "id": "mh01",
-  "tarih": "2025-08-01",
-  "tur": "Gelir",
-  "aciklama": "MAAS UYGAR",
-  "tutar": 20000
-},
-{
-  "id": "mh02",
-  "tarih": "2025-08-01",
-  "tur": "Gelir",
-  "aciklama": "MAAS",
-  "tutar": 22000
-},
-{
-  "id": "mh03",
-  "tarih": "2025-08-01",
-  "tur": "Gelir",
-  "aciklama": "EKSTRA",
-  "tutar": 25500
-},
-{
-  "id": "mh04",
-  "tarih": "2025-08-01",
-  "tur": "Gider",
-  "aciklama": "ZIRAAT KART EKSTRE",
-  "tutar": 25404
-},
-{
-  "id": "mh05",
-  "tarih": "2025-08-01",
-  "tur": "Gider",
-  "aciklama": "VAKIF KART EKSTRE",
-  "tutar": 18100
-},
-{
-  "id": "mh06",
-  "tarih": "2025-08-01",
-  "tur": "Gider",
-  "aciklama": "VAKIF KART EKSTRE",
-  "tutar": 22500
-},
-{
-  "id": "mh07",
-  "tarih": "2025-08-01",
-  "tur": "Gider",
-  "aciklama": "VAKIF KMH EKSTRE",
-  "tutar": 6000
-},
-{
-  "id": "mh08",
-  "tarih": "2025-08-01",
-  "tur": "Gider",
-  "aciklama": "ZIRAAT KREDI EKSTRE",
-  "tutar": 18300
-},
-{
-  "id": "mh09",
-  "tarih": "2025-08-01",
-  "tur": "Gider",
-  "aciklama": "ZIRAAT KMH EKSTRE",
-  "tutar": 4300
-},
-{
-  "id": "mh10",
-  "tarih": "2025-08-01",
-  "tur": "Gider",
-  "aciklama": "VAKIF KART HARCAMA",
-  "tutar": 900
-},
-{
-  "id": "mh11",
-  "tarih": "2025-08-01",
-  "tur": "Gider",
-  "aciklama": "FINANS KREDI EKSTRE",
-  "tutar": 7300
-},
-{
-  "id": "mh12",
-  "tarih": "2025-08-01",
-  "tur": "Gider",
-  "aciklama": "BONCUK HARCAMA",
-  "tutar": 2000
-},
-{
-  "id": "mh13",
-  "tarih": "2025-08-01",
-  "tur": "Gider",
-  "aciklama": "HARCLIK HARCAMA",
-  "tutar": 300
-},
-{
-  "id": "mh14",
-  "tarih": "2025-08-01",
-  "tur": "Gider",
-  "aciklama": "AKBANK KMH EKSTRE",
-  "tutar": 7500
-},
-{
-  "id": "mh15",
-  "tarih": "2025-08-01",
-  "tur": "Gider",
-  "aciklama": "TELEFON UYGAR HARCAMA",
-  "tutar": 475
-},
-{
-  "id": "mh16",
-  "tarih": "2025-08-01",
-  "tur": "Gider",
-  "aciklama": "TELEFON UYGAR HARCAMA",
-  "tutar": 400
-},
-{
-  "id": "mh17",
-  "tarih": "2025-08-01",
-  "tur": "Gider",
-  "aciklama": "TELEFON HARCAMA",
-  "tutar": 150
-},
-{
-  "id": "mh18",
-  "tarih": "2025-08-01",
-  "tur": "Gider",
-  "aciklama": "SAGLIK RAPORU HARCAMA",
-  "tutar": 250
-},
-{
-  "id": "mh19",
-  "tarih": "2025-08-01",
-  "tur": "Gider",
-  "aciklama": "MEZARCI HARCAMA",
-  "tutar": 250
-},
-{
-  "id": "mh20",
-  "tarih": "2025-08-01",
-  "tur": "Gider",
-  "aciklama": "TERZI HARCAMA",
-  "tutar": 450
-},
-{
-  "id": "mh21",
-  "tarih": "2025-08-01",
-  "tur": "Gider",
-  "aciklama": "PAZAR HARCAMA",
-  "tutar": 800
-},
-{
-  "id": "mh22",
-  "tarih": "2025-08-01",
-  "tur": "Gider",
-  "aciklama": "KARGO HARCAMA",
-  "tutar": 300
-},
-{
-  "id": "mh23",
-  "tarih": "2025-08-01",
-  "tur": "Gider",
-  "aciklama": "KITAP DEFTER HARCAMA",
-  "tutar": 650
-},
-{
-  "id": "mh24",
-  "tarih": "2025-08-01",
-  "tur": "Gider",
-  "aciklama": "PTT HARCAMA",
-  "tutar": 250
-},
-{
-  "id": "mh25",
-  "tarih": "2025-08-01",
-  "tur": "Gider",
-  "aciklama": "PTT HARCAMA",
-  "tutar": 255
-},
-{
-  "id": "mh26",
-  "tarih": "2025-08-01",
-  "tur": "Gider",
-  "aciklama": "VAKIF KART HARCAMA",
-  "tutar": 1250
-},
-{
-  "id": "mh27",
-  "tarih": "2025-09-01",
-  "tur": "Gelir",
-  "aciklama": "MAAS",
-  "tutar": 22000
-},
-{
-  "id": "mh28",
-  "tarih": "2025-09-01",
-  "tur": "Gider",
-  "aciklama": "ZIRAAT KMH EKSTRE",
-  "tutar": 7820
-},
-{
-  "id": "mh29",
-  "tarih": "2025-09-01",
-  "tur": "Gider",
-  "aciklama": "FINANS KREDI EKSTRE",
-  "tutar": 7300
-},
-{
-  "id": "mh30",
-  "tarih": "2025-09-01",
-  "tur": "Gider",
-  "aciklama": "ZIRAAT KART EKSTRE",
-  "tutar": 16000
-},
-{
-  "id": "mh31",
-  "tarih": "2025-09-01",
-  "tur": "Gider",
-  "aciklama": "AKBANK KMH EKSTRE",
-  "tutar": 8000
-},
-{
-  "id": "mh32",
-  "tarih": "2025-09-01",
-  "tur": "Gider",
-  "aciklama": "BERBER UYGAR HARCAMA",
-  "tutar": 2000
-},
-{
-  "id": "mh33",
-  "tarih": "2025-09-01",
-  "tur": "Gider",
-  "aciklama": "KIYAFET HARCAMA",
-  "tutar": 1600
-},
-{
-  "id": "mh34",
-  "tarih": "2025-09-01",
-  "tur": "Gelir",
-  "aciklama": "MAAS",
-  "tutar": 23000
-}
+    "id": "mh01",
+    "tarih": "2025-08-01",
+    "tur": "Gelir",
+    "aciklama": "MAAS UYGAR",
+    "tutar": 20000
+  },
+  {
+    "id": "mh02",
+    "tarih": "2025-08-01",
+    "tur": "Gelir",
+    "aciklama": "MAAS",
+    "tutar": 22000
+  },
+  {
+    "id": "mh03",
+    "tarih": "2025-08-01",
+    "tur": "Gelir",
+    "aciklama": "EKSTRA",
+    "tutar": 25500
+  },
+  {
+    "id": "mh04",
+    "tarih": "2025-08-01",
+    "tur": "Gider",
+    "aciklama": "ZIRAAT KART EKSTRE",
+    "tutar": 25404
+  },
+  {
+    "id": "mh05",
+    "tarih": "2025-08-01",
+    "tur": "Gider",
+    "aciklama": "VAKIF KART EKSTRE",
+    "tutar": 18100
+  },
+  {
+    "id": "mh06",
+    "tarih": "2025-08-01",
+    "tur": "Gider",
+    "aciklama": "VAKIF KART EKSTRE",
+    "tutar": 22500
+  },
+  {
+    "id": "mh07",
+    "tarih": "2025-08-01",
+    "tur": "Gider",
+    "aciklama": "VAKIF KMH EKSTRE",
+    "tutar": 6000
+  },
+  {
+    "id": "mh08",
+    "tarih": "2025-08-01",
+    "tur": "Gider",
+    "aciklama": "ZIRAAT KREDI EKSTRE",
+    "tutar": 18300
+  },
+  {
+    "id": "mh09",
+    "tarih": "2025-08-01",
+    "tur": "Gider",
+    "aciklama": "ZIRAAT KMH EKSTRE",
+    "tutar": 4300
+  },
+  {
+    "id": "mh10",
+    "tarih": "2025-08-01",
+    "tur": "Gider",
+    "aciklama": "VAKIF KART HARCAMA",
+    "tutar": 900
+  },
+  {
+    "id": "mh11",
+    "tarih": "2025-08-01",
+    "tur": "Gider",
+    "aciklama": "FINANS KREDI EKSTRE",
+    "tutar": 7300
+  },
+  {
+    "id": "mh12",
+    "tarih": "2025-08-01",
+    "tur": "Gider",
+    "aciklama": "BONCUK HARCAMA",
+    "tutar": 2000
+  },
+  {
+    "id": "mh13",
+    "tarih": "2025-08-01",
+    "tur": "Gider",
+    "aciklama": "HARCLIK HARCAMA",
+    "tutar": 300
+  },
+  {
+    "id": "mh14",
+    "tarih": "2025-08-01",
+    "tur": "Gider",
+    "aciklama": "AKBANK KMH EKSTRE",
+    "tutar": 7500
+  },
+  {
+    "id": "mh15",
+    "tarih": "2025-08-01",
+    "tur": "Gider",
+    "aciklama": "TELEFON UYGAR HARCAMA",
+    "tutar": 475
+  },
+  {
+    "id": "mh16",
+    "tarih": "2025-08-01",
+    "tur": "Gider",
+    "aciklama": "TELEFON UYGAR HARCAMA",
+    "tutar": 400
+  },
+  {
+    "id": "mh17",
+    "tarih": "2025-08-01",
+    "tur": "Gider",
+    "aciklama": "TELEFON HARCAMA",
+    "tutar": 150
+  },
+  {
+    "id": "mh18",
+    "tarih": "2025-08-01",
+    "tur": "Gider",
+    "aciklama": "SAGLIK RAPORU HARCAMA",
+    "tutar": 250
+  },
+  {
+    "id": "mh19",
+    "tarih": "2025-08-01",
+    "tur": "Gider",
+    "aciklama": "MEZARCI HARCAMA",
+    "tutar": 250
+  },
+  {
+    "id": "mh20",
+    "tarih": "2025-08-01",
+    "tur": "Gider",
+    "aciklama": "TERZI HARCAMA",
+    "tutar": 450
+  },
+  {
+    "id": "mh21",
+    "tarih": "2025-08-01",
+    "tur": "Gider",
+    "aciklama": "PAZAR HARCAMA",
+    "tutar": 800
+  },
+  {
+    "id": "mh22",
+    "tarih": "2025-08-01",
+    "tur": "Gider",
+    "aciklama": "KARGO HARCAMA",
+    "tutar": 300
+  },
+  {
+    "id": "mh23",
+    "tarih": "2025-08-01",
+    "tur": "Gider",
+    "aciklama": "KITAP DEFTER HARCAMA",
+    "tutar": 650
+  },
+  {
+    "id": "mh24",
+    "tarih": "2025-08-01",
+    "tur": "Gider",
+    "aciklama": "PTT HARCAMA",
+    "tutar": 250
+  },
+  {
+    "id": "mh25",
+    "tarih": "2025-08-01",
+    "tur": "Gider",
+    "aciklama": "PTT HARCAMA",
+    "tutar": 255
+  },
+  {
+    "id": "mh26",
+    "tarih": "2025-08-01",
+    "tur": "Gider",
+    "aciklama": "VAKIF KART HARCAMA",
+    "tutar": 1250
+  },
+  {
+    "id": "mh27",
+    "tarih": "2025-09-01",
+    "tur": "Gelir",
+    "aciklama": "MAAS",
+    "tutar": 22000
+  },
+  {
+    "id": "mh28",
+    "tarih": "2025-09-01",
+    "tur": "Gider",
+    "aciklama": "ZIRAAT KMH EKSTRE",
+    "tutar": 7820
+  },
+  {
+    "id": "mh29",
+    "tarih": "2025-09-01",
+    "tur": "Gider",
+    "aciklama": "FINANS KREDI EKSTRE",
+    "tutar": 7300
+  },
+  {
+    "id": "mh30",
+    "tarih": "2025-09-01",
+    "tur": "Gider",
+    "aciklama": "ZIRAAT KART EKSTRE",
+    "tutar": 16000
+  },
+  {
+    "id": "mh31",
+    "tarih": "2025-09-01",
+    "tur": "Gider",
+    "aciklama": "AKBANK KMH EKSTRE",
+    "tutar": 8000
+  },
+  {
+    "id": "mh32",
+    "tarih": "2025-09-01",
+    "tur": "Gider",
+    "aciklama": "BERBER UYGAR HARCAMA",
+    "tutar": 2000
+  },
+  {
+    "id": "mh33",
+    "tarih": "2025-09-01",
+    "tur": "Gider",
+    "aciklama": "KIYAFET HARCAMA",
+    "tutar": 1600
+  },
+  {
+    "id": "mh34",
+    "tarih": "2025-09-01",
+    "tur": "Gelir",
+    "aciklama": "MAAS",
+    "tutar": 23000
+  }
 ]
