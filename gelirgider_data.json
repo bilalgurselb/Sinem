@@ -1,682 +1,89 @@
 [
   {
-    "id": "mhlkaqepqylewr",
-    "tarih": "2025-07-25",
+    "id": "mhkyp0nzjjw8l6",
+    "ref": "AV-mhkyp0nybc1wem",
+    "tarih": "2025-12-04",
     "tur": "Gider",
-    "aciklama": "Uygar Akbank KMH",
-    "tutar": 76000
+    "aciklama": "Avans Taksit 1/3",
+    "tutar": 3020.97
   },
   {
-    "id": "mhlkcdhvnysk6a",
-    "tarih": "2025-04-06",
-    "tur": "Nakit Avans/Kredi (Taksitli)",
-    "aciklama": "Uygar Finans Kredi",
-    "tutar": 100000
+    "id": "mhkyp0nz2skj8r",
+    "ref": "AV-mhkyp0nybc1wem",
+    "tarih": "2026-01-04",
+    "tur": "Gider",
+    "aciklama": "Avans Taksit 2/3",
+    "tutar": 3020.97
   },
   {
-    "id": "mhlkk1mbqwzn20",
-    "ref": "AV-mhlkk1mbhzv2op",
-    "tarih": "2025-04-06",
+    "id": "mhkyp0nzio14ck",
+    "ref": "AV-mhkyp0nybc1wem",
+    "tarih": "2026-02-04",
+    "tur": "Gider",
+    "aciklama": "Avans Taksit 3/3",
+    "tutar": 3020.97
+  },
+  {
+    "id": "mhkypwnqh9fi0f",
+    "ref": "AV-mhkypwnq35w4zb",
+    "tarih": "2025-12-04",
+    "tur": "Gider",
+    "aciklama": "Avans Taksit 1/3",
+    "tutar": 3020.97
+  },
+  {
+    "id": "mhkypwnqzg8phh",
+    "ref": "AV-mhkypwnq35w4zb",
+    "tarih": "2026-01-04",
+    "tur": "Gider",
+    "aciklama": "Avans Taksit 2/3",
+    "tutar": 3020.97
+  },
+  {
+    "id": "mhkypwnqpoqaqq",
+    "ref": "AV-mhkypwnq35w4zb",
+    "tarih": "2026-02-04",
+    "tur": "Gider",
+    "aciklama": "Avans Taksit 3/3",
+    "tutar": 3020.97
+  },
+  {
+    "id": "mhkyre47xkr3q1",
+    "ref": "AV-mhkyre474b5to4",
+    "tarih": "2025-11-04",
     "tur": "Gelir",
     "aciklama": "Nakit Avans",
-    "tutar": 100000
-  },
-  {
-    "id": "mhlkk1mb0id800",
-    "ref": "AV-mhlkk1mbhzv2op",
-    "tarih": "2025-05-06",
-    "tur": "Gider",
-    "aciklama": "Avans Taksit 1/24",
-    "tutar": 7300
-  },
-  {
-    "id": "mhlkk1mbxnd7yd",
-    "ref": "AV-mhlkk1mbhzv2op",
-    "tarih": "2025-06-06",
-    "tur": "Gider",
-    "aciklama": "Avans Taksit 2/24",
-    "tutar": 7300
-  },
-  {
-    "id": "mhlkk1mbgcxvsh",
-    "ref": "AV-mhlkk1mbhzv2op",
-    "tarih": "2025-07-06",
-    "tur": "Gider",
-    "aciklama": "Avans Taksit 3/24",
-    "tutar": 7300
-  },
-  {
-    "id": "mhlkk1mbpkikzb",
-    "ref": "AV-mhlkk1mbhzv2op",
-    "tarih": "2025-08-06",
-    "tur": "Gider",
-    "aciklama": "Avans Taksit 4/24",
-    "tutar": 7300
-  },
-  {
-    "id": "mhlkk1mb0j4cp8",
-    "ref": "AV-mhlkk1mbhzv2op",
-    "tarih": "2025-09-06",
-    "tur": "Gider",
-    "aciklama": "Avans Taksit 5/24",
-    "tutar": 7300
-  },
-  {
-    "id": "mhlkk1mblbghua",
-    "ref": "AV-mhlkk1mbhzv2op",
-    "tarih": "2025-10-06",
-    "tur": "Gider",
-    "aciklama": "Avans Taksit 6/24",
-    "tutar": 7300
-  },
-  {
-    "id": "mhlkk1mbkwo500",
-    "ref": "AV-mhlkk1mbhzv2op",
-    "tarih": "2025-11-06",
-    "tur": "Gider",
-    "aciklama": "Avans Taksit 7/24",
-    "tutar": 7300
-  },
-  {
-    "id": "mhlkk1mbezgr8g",
-    "ref": "AV-mhlkk1mbhzv2op",
-    "tarih": "2025-12-06",
-    "tur": "Gider",
-    "aciklama": "Avans Taksit 8/24",
-    "tutar": 7300
-  },
-  {
-    "id": "mhlkk1mbh8z3st",
-    "ref": "AV-mhlkk1mbhzv2op",
-    "tarih": "2026-01-06",
-    "tur": "Gider",
-    "aciklama": "Avans Taksit 9/24",
-    "tutar": 7300
-  },
-  {
-    "id": "mhlkk1mbdp14d6",
-    "ref": "AV-mhlkk1mbhzv2op",
-    "tarih": "2026-02-06",
-    "tur": "Gider",
-    "aciklama": "Avans Taksit 10/24",
-    "tutar": 7300
-  },
-  {
-    "id": "mhlkk1mbz6i39b",
-    "ref": "AV-mhlkk1mbhzv2op",
-    "tarih": "2026-03-06",
-    "tur": "Gider",
-    "aciklama": "Avans Taksit 11/24",
-    "tutar": 7300
-  },
-  {
-    "id": "mhlkk1mbakjjta",
-    "ref": "AV-mhlkk1mbhzv2op",
-    "tarih": "2026-04-06",
-    "tur": "Gider",
-    "aciklama": "Avans Taksit 12/24",
-    "tutar": 7300
-  },
-  {
-    "id": "mhlkk1mbukmt3x",
-    "ref": "AV-mhlkk1mbhzv2op",
-    "tarih": "2026-05-06",
-    "tur": "Gider",
-    "aciklama": "Avans Taksit 13/24",
-    "tutar": 7300
-  },
-  {
-    "id": "mhlkk1mbdy7oad",
-    "ref": "AV-mhlkk1mbhzv2op",
-    "tarih": "2026-06-06",
-    "tur": "Gider",
-    "aciklama": "Avans Taksit 14/24",
-    "tutar": 7300
-  },
-  {
-    "id": "mhlkk1mbcnjcne",
-    "ref": "AV-mhlkk1mbhzv2op",
-    "tarih": "2026-07-06",
-    "tur": "Gider",
-    "aciklama": "Avans Taksit 15/24",
-    "tutar": 7300
-  },
-  {
-    "id": "mhlkk1mbfx25pt",
-    "ref": "AV-mhlkk1mbhzv2op",
-    "tarih": "2026-08-06",
-    "tur": "Gider",
-    "aciklama": "Avans Taksit 16/24",
-    "tutar": 7300
-  },
-  {
-    "id": "mhlkk1mbpksnoc",
-    "ref": "AV-mhlkk1mbhzv2op",
-    "tarih": "2026-09-06",
-    "tur": "Gider",
-    "aciklama": "Avans Taksit 17/24",
-    "tutar": 7300
-  },
-  {
-    "id": "mhlkk1mbcxaqv4",
-    "ref": "AV-mhlkk1mbhzv2op",
-    "tarih": "2026-10-06",
-    "tur": "Gider",
-    "aciklama": "Avans Taksit 18/24",
-    "tutar": 7300
-  },
-  {
-    "id": "mhlkk1mbbgpi0m",
-    "ref": "AV-mhlkk1mbhzv2op",
-    "tarih": "2026-11-06",
-    "tur": "Gider",
-    "aciklama": "Avans Taksit 19/24",
-    "tutar": 7300
-  },
-  {
-    "id": "mhlkk1mb8jzn8n",
-    "ref": "AV-mhlkk1mbhzv2op",
-    "tarih": "2026-12-06",
-    "tur": "Gider",
-    "aciklama": "Avans Taksit 20/24",
-    "tutar": 7300
-  },
-  {
-    "id": "mhlkk1mb6s0jr9",
-    "ref": "AV-mhlkk1mbhzv2op",
-    "tarih": "2027-01-06",
-    "tur": "Gider",
-    "aciklama": "Avans Taksit 21/24",
-    "tutar": 7300
-  },
-  {
-    "id": "mhlkk1mb3a66r8",
-    "ref": "AV-mhlkk1mbhzv2op",
-    "tarih": "2027-02-06",
-    "tur": "Gider",
-    "aciklama": "Avans Taksit 22/24",
-    "tutar": 7300
-  },
-  {
-    "id": "mhlkk1mbfrnc0k",
-    "ref": "AV-mhlkk1mbhzv2op",
-    "tarih": "2027-03-06",
-    "tur": "Gider",
-    "aciklama": "Avans Taksit 23/24",
-    "tutar": 7300
-  },
-  {
-    "id": "mhlkk1mbveyoaz",
-    "ref": "AV-mhlkk1mbhzv2op",
-    "tarih": "2027-04-06",
-    "tur": "Gider",
-    "aciklama": "Avans Taksit 24/24",
-    "tutar": 7300
-  },
-  {
-    "id": "mhlklfgrth8bbw",
-    "tarih": "2025-07-25",
-    "tur": "Gider",
-    "aciklama": "Uygar VAKIF KMH",
-    "tutar": 5000
-  },
-  {
-    "id": "mhlklysrrrdhru",
-    "tarih": "2025-07-25",
-    "tur": "Gider",
-    "aciklama": "Uygar Vakıf KKARTI",
-    "tutar": 49825
-  },
-  {
-    "id": "mhlkmmkn2h3mg0",
-    "tarih": "2025-07-25",
-    "tur": "Gider",
-    "aciklama": "Sinem Ziraat KMH",
-    "tutar": 68835
-  },
-  {
-    "id": "mhlknb7j2quw9c",
-    "tarih": "2025-07-25",
-    "tur": "Gider",
-    "aciklama": "Sinem Ziraat KKARTI",
-    "tutar": 67500
-  },
-  {
-    "id": "mhlkoj15sg9x8a",
-    "ref": "AV-mhlkoj15t6c89s",
-    "tarih": "2025-04-06",
-    "tur": "Gelir",
-    "aciklama": "Nakit Avans",
-    "tutar": 300000
-  },
-  {
-    "id": "mhlkoj15qyjktf",
-    "ref": "AV-mhlkoj15t6c89s",
-    "tarih": "2025-05-06",
-    "tur": "Gider",
-    "aciklama": "Avans Taksit 1/24",
-    "tutar": 18300
-  },
-  {
-    "id": "mhlkoj15s6xewb",
-    "ref": "AV-mhlkoj15t6c89s",
-    "tarih": "2025-06-06",
-    "tur": "Gider",
-    "aciklama": "Avans Taksit 2/24",
-    "tutar": 18300
-  },
-  {
-    "id": "mhlkoj1519x37x",
-    "ref": "AV-mhlkoj15t6c89s",
-    "tarih": "2025-07-06",
-    "tur": "Gider",
-    "aciklama": "Avans Taksit 3/24",
-    "tutar": 18300
-  },
-  {
-    "id": "mhlkoj155qbnrs",
-    "ref": "AV-mhlkoj15t6c89s",
-    "tarih": "2025-08-06",
-    "tur": "Gider",
-    "aciklama": "Avans Taksit 4/24",
-    "tutar": 18300
-  },
-  {
-    "id": "mhlkoj15ccay56",
-    "ref": "AV-mhlkoj15t6c89s",
-    "tarih": "2025-09-06",
-    "tur": "Gider",
-    "aciklama": "Avans Taksit 5/24",
-    "tutar": 18300
-  },
-  {
-    "id": "mhlkoj15uuuphs",
-    "ref": "AV-mhlkoj15t6c89s",
-    "tarih": "2025-10-06",
-    "tur": "Gider",
-    "aciklama": "Avans Taksit 6/24",
-    "tutar": 18300
-  },
-  {
-    "id": "mhlkoj15qaq3p5",
-    "ref": "AV-mhlkoj15t6c89s",
-    "tarih": "2025-11-06",
-    "tur": "Gider",
-    "aciklama": "Avans Taksit 7/24",
-    "tutar": 18300
-  },
-  {
-    "id": "mhlkoj15bdbaxz",
-    "ref": "AV-mhlkoj15t6c89s",
-    "tarih": "2025-12-06",
-    "tur": "Gider",
-    "aciklama": "Avans Taksit 8/24",
-    "tutar": 18300
-  },
-  {
-    "id": "mhlkoj15yvc76p",
-    "ref": "AV-mhlkoj15t6c89s",
-    "tarih": "2026-01-06",
-    "tur": "Gider",
-    "aciklama": "Avans Taksit 9/24",
-    "tutar": 18300
-  },
-  {
-    "id": "mhlkoj15yokmjd",
-    "ref": "AV-mhlkoj15t6c89s",
-    "tarih": "2026-02-06",
-    "tur": "Gider",
-    "aciklama": "Avans Taksit 10/24",
-    "tutar": 18300
-  },
-  {
-    "id": "mhlkoj15lj201f",
-    "ref": "AV-mhlkoj15t6c89s",
-    "tarih": "2026-03-06",
-    "tur": "Gider",
-    "aciklama": "Avans Taksit 11/24",
-    "tutar": 18300
-  },
-  {
-    "id": "mhlkoj15ougq8l",
-    "ref": "AV-mhlkoj15t6c89s",
-    "tarih": "2026-04-06",
-    "tur": "Gider",
-    "aciklama": "Avans Taksit 12/24",
-    "tutar": 18300
-  },
-  {
-    "id": "mhlkoj15gc5vlw",
-    "ref": "AV-mhlkoj15t6c89s",
-    "tarih": "2026-05-06",
-    "tur": "Gider",
-    "aciklama": "Avans Taksit 13/24",
-    "tutar": 18300
-  },
-  {
-    "id": "mhlkoj1540fcoi",
-    "ref": "AV-mhlkoj15t6c89s",
-    "tarih": "2026-06-06",
-    "tur": "Gider",
-    "aciklama": "Avans Taksit 14/24",
-    "tutar": 18300
-  },
-  {
-    "id": "mhlkoj15qnwhhe",
-    "ref": "AV-mhlkoj15t6c89s",
-    "tarih": "2026-07-06",
-    "tur": "Gider",
-    "aciklama": "Avans Taksit 15/24",
-    "tutar": 18300
-  },
-  {
-    "id": "mhlkoj153kvkq6",
-    "ref": "AV-mhlkoj15t6c89s",
-    "tarih": "2026-08-06",
-    "tur": "Gider",
-    "aciklama": "Avans Taksit 16/24",
-    "tutar": 18300
-  },
-  {
-    "id": "mhlkoj15tgzdrd",
-    "ref": "AV-mhlkoj15t6c89s",
-    "tarih": "2026-09-06",
-    "tur": "Gider",
-    "aciklama": "Avans Taksit 17/24",
-    "tutar": 18300
-  },
-  {
-    "id": "mhlkoj15j5lhnj",
-    "ref": "AV-mhlkoj15t6c89s",
-    "tarih": "2026-10-06",
-    "tur": "Gider",
-    "aciklama": "Avans Taksit 18/24",
-    "tutar": 18300
-  },
-  {
-    "id": "mhlkoj15gul93u",
-    "ref": "AV-mhlkoj15t6c89s",
-    "tarih": "2026-11-06",
-    "tur": "Gider",
-    "aciklama": "Avans Taksit 19/24",
-    "tutar": 18300
-  },
-  {
-    "id": "mhlkoj15wuummg",
-    "ref": "AV-mhlkoj15t6c89s",
-    "tarih": "2026-12-06",
-    "tur": "Gider",
-    "aciklama": "Avans Taksit 20/24",
-    "tutar": 18300
-  },
-  {
-    "id": "mhlkoj15a5f7ik",
-    "ref": "AV-mhlkoj15t6c89s",
-    "tarih": "2027-01-06",
-    "tur": "Gider",
-    "aciklama": "Avans Taksit 21/24",
-    "tutar": 18300
-  },
-  {
-    "id": "mhlkoj15ho967b",
-    "ref": "AV-mhlkoj15t6c89s",
-    "tarih": "2027-02-06",
-    "tur": "Gider",
-    "aciklama": "Avans Taksit 22/24",
-    "tutar": 18300
-  },
-  {
-    "id": "mhlkoj155xp5zt",
-    "ref": "AV-mhlkoj15t6c89s",
-    "tarih": "2027-03-06",
-    "tur": "Gider",
-    "aciklama": "Avans Taksit 23/24",
-    "tutar": 18300
-  },
-  {
-    "id": "mhlkoj15aj3b5h",
-    "ref": "AV-mhlkoj15t6c89s",
-    "tarih": "2027-04-06",
-    "tur": "Gider",
-    "aciklama": "Avans Taksit 24/24",
-    "tutar": 18300
-  },
-  {
-    "id": "mh01",
-    "tarih": "2025-08-01",
-    "tur": "Gelir",
-    "aciklama": "MAAS UYGAR",
-    "tutar": 20000
-  },
-  {
-    "id": "mh02",
-    "tarih": "2025-08-01",
-    "tur": "Gelir",
-    "aciklama": "MAAS",
-    "tutar": 22000
-  },
-  {
-    "id": "mh03",
-    "tarih": "2025-08-01",
-    "tur": "Gelir",
-    "aciklama": "EKSTRA",
-    "tutar": 25500
-  },
-  {
-    "id": "mh04",
-    "tarih": "2025-08-01",
-    "tur": "Gider",
-    "aciklama": "ZIRAAT KART EKSTRE",
-    "tutar": 25404
-  },
-  {
-    "id": "mh05",
-    "tarih": "2025-08-01",
-    "tur": "Gider",
-    "aciklama": "VAKIF KART EKSTRE",
-    "tutar": 18100
-  },
-  {
-    "id": "mh06",
-    "tarih": "2025-08-01",
-    "tur": "Gider",
-    "aciklama": "VAKIF KART EKSTRE",
-    "tutar": 22500
-  },
-  {
-    "id": "mh07",
-    "tarih": "2025-08-01",
-    "tur": "Gider",
-    "aciklama": "VAKIF KMH EKSTRE",
-    "tutar": 6000
-  },
-  {
-    "id": "mh08",
-    "tarih": "2025-08-01",
-    "tur": "Gider",
-    "aciklama": "ZIRAAT KREDI EKSTRE",
-    "tutar": 18300
-  },
-  {
-    "id": "mh09",
-    "tarih": "2025-08-01",
-    "tur": "Gider",
-    "aciklama": "ZIRAAT KMH EKSTRE",
-    "tutar": 4300
-  },
-  {
-    "id": "mh10",
-    "tarih": "2025-08-01",
-    "tur": "Gider",
-    "aciklama": "VAKIF KART HARCAMA",
-    "tutar": 900
-  },
-  {
-    "id": "mh11",
-    "tarih": "2025-08-01",
-    "tur": "Gider",
-    "aciklama": "FINANS KREDI EKSTRE",
-    "tutar": 7300
-  },
-  {
-    "id": "mh12",
-    "tarih": "2025-08-01",
-    "tur": "Gider",
-    "aciklama": "BONCUK HARCAMA",
-    "tutar": 2000
-  },
-  {
-    "id": "mh13",
-    "tarih": "2025-08-01",
-    "tur": "Gider",
-    "aciklama": "HARCLIK HARCAMA",
-    "tutar": 300
-  },
-  {
-    "id": "mh14",
-    "tarih": "2025-08-01",
-    "tur": "Gider",
-    "aciklama": "AKBANK KMH EKSTRE",
-    "tutar": 7500
-  },
-  {
-    "id": "mh15",
-    "tarih": "2025-08-01",
-    "tur": "Gider",
-    "aciklama": "TELEFON UYGAR HARCAMA",
-    "tutar": 475
-  },
-  {
-    "id": "mh16",
-    "tarih": "2025-08-01",
-    "tur": "Gider",
-    "aciklama": "TELEFON UYGAR HARCAMA",
-    "tutar": 400
-  },
-  {
-    "id": "mh17",
-    "tarih": "2025-08-01",
-    "tur": "Gider",
-    "aciklama": "TELEFON HARCAMA",
-    "tutar": 150
-  },
-  {
-    "id": "mh18",
-    "tarih": "2025-08-01",
-    "tur": "Gider",
-    "aciklama": "SAGLIK RAPORU HARCAMA",
-    "tutar": 250
-  },
-  {
-    "id": "mh19",
-    "tarih": "2025-08-01",
-    "tur": "Gider",
-    "aciklama": "MEZARCI HARCAMA",
-    "tutar": 250
-  },
-  {
-    "id": "mh20",
-    "tarih": "2025-08-01",
-    "tur": "Gider",
-    "aciklama": "TERZI HARCAMA",
-    "tutar": 450
-  },
-  {
-    "id": "mh21",
-    "tarih": "2025-08-01",
-    "tur": "Gider",
-    "aciklama": "PAZAR HARCAMA",
-    "tutar": 800
-  },
-  {
-    "id": "mh22",
-    "tarih": "2025-08-01",
-    "tur": "Gider",
-    "aciklama": "KARGO HARCAMA",
-    "tutar": 300
-  },
-  {
-    "id": "mh23",
-    "tarih": "2025-08-01",
-    "tur": "Gider",
-    "aciklama": "KITAP DEFTER HARCAMA",
-    "tutar": 650
-  },
-  {
-    "id": "mh24",
-    "tarih": "2025-08-01",
-    "tur": "Gider",
-    "aciklama": "PTT HARCAMA",
-    "tutar": 250
-  },
-  {
-    "id": "mh25",
-    "tarih": "2025-08-01",
-    "tur": "Gider",
-    "aciklama": "PTT HARCAMA",
-    "tutar": 255
-  },
-  {
-    "id": "mh26",
-    "tarih": "2025-08-01",
-    "tur": "Gider",
-    "aciklama": "VAKIF KART HARCAMA",
-    "tutar": 1250
-  },
-  {
-    "id": "mh27",
-    "tarih": "2025-09-01",
-    "tur": "Gelir",
-    "aciklama": "MAAS",
-    "tutar": 22000
-  },
-  {
-    "id": "mh28",
-    "tarih": "2025-09-01",
-    "tur": "Gider",
-    "aciklama": "ZIRAAT KMH EKSTRE",
-    "tutar": 7820
-  },
-  {
-    "id": "mh29",
-    "tarih": "2025-09-01",
-    "tur": "Gider",
-    "aciklama": "FINANS KREDI EKSTRE",
-    "tutar": 7300
-  },
-  {
-    "id": "mh30",
-    "tarih": "2025-09-01",
-    "tur": "Gider",
-    "aciklama": "ZIRAAT KART EKSTRE",
-    "tutar": 16000
-  },
-  {
-    "id": "mh31",
-    "tarih": "2025-09-01",
-    "tur": "Gider",
-    "aciklama": "AKBANK KMH EKSTRE",
     "tutar": 8000
   },
   {
-    "id": "mh32",
-    "tarih": "2025-09-01",
+    "id": "mhkyre48msojvm",
+    "ref": "AV-mhkyre474b5to4",
+    "tarih": "2025-12-04",
     "tur": "Gider",
-    "aciklama": "BERBER UYGAR HARCAMA",
-    "tutar": 2000
+    "aciklama": "Avans Taksit 1/3",
+    "tutar": 3020.87
   },
   {
-    "id": "mh33",
-    "tarih": "2025-09-01",
+    "id": "mhkyre481nqfkj",
+    "ref": "AV-mhkyre474b5to4",
+    "tarih": "2026-01-04",
     "tur": "Gider",
-    "aciklama": "KIYAFET HARCAMA",
-    "tutar": 1600
+    "aciklama": "Avans Taksit 2/3",
+    "tutar": 3020.87
   },
   {
-    "id": "mh34",
-    "tarih": "2025-09-01",
+    "id": "mhkyre48uxv89h",
+    "ref": "AV-mhkyre474b5to4",
+    "tarih": "2026-02-04",
+    "tur": "Gider",
+    "aciklama": "Avans Taksit 3/3",
+    "tutar": 3020.88
+  },
+  {
+    "id": "mhkysq1lnayk0r",
+    "tarih": "2025-11-01",
     "tur": "Gelir",
-    "aciklama": "MAAS",
-    "tutar": 23000
+    "aciklama": "maaş",
+    "tutar": 25000
   }
 ]
