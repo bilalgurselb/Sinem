@@ -454,5 +454,40 @@
     "tur": "Gelir",
     "aciklama": "MAAŞLAR",
     "tutar": 42000
+  },
+  {
+    "id": "mhliewikmqjfyl",
+    "tarih": "2025-11-01",
+    "tur": "Gelir",
+    "aciklama": "Ekstra Gelir",
+    "tutar": 25500
+  },
+  {
+    "id": "mhlig305n3wup9",
+    "tarih": "2025-08-01",
+    "tur": "Gider",
+    "aciklama": "Ziraat KKARTI",
+    "tutar": 25404
+  },
+  {
+    "id": "mhlignabicyg1m",
+    "tarih": "2025-08-01",
+    "tur": "Gider",
+    "aciklama": "VAKIF KKARTI",
+    "tutar": 18100
+  },
+  {
+    "id": "mhlihht9wa0cht",
+    "tarih": "2025-08-01",
+    "tur": "Gider",
+    "aciklama": "VAKIF KKARTI",
+    "tutar": 22500
+  },
+  {
+    "id": "mhlii4o7z3apbk",
+    "tarih": "2025-08-01",
+    "tur": "Gider",
+    "aciklama": "VAKIF KMH",
+    "tutar": 6000
   }
 ]
