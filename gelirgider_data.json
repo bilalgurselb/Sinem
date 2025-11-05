@@ -497,4 +497,229 @@
     "aciklama": "VAKIF KKARTI HARCAMA",
     "tutar": 900
   }
+  [
+  {
+    "id": "mhle9e2zp9wgtx",
+    "tarih": "2025-08-01",
+    "tur": "Gider",
+    "aciklama": "AKBANK KMH EKSTRE",
+    "tutar": 7500
+  },
+  {
+    "id": "mhle9e2zp9wgty",
+    "tarih": "2025-08-01",
+    "tur": "Gider",
+    "aciklama": "TELEFON UYGAR HARCAMA",
+    "tutar": 475
+  },
+  {
+    "id": "mhle9e2zp9wgtz",
+    "tarih": "2025-08-01",
+    "tur": "Gider",
+    "aciklama": "TELEFON UYGAR HARCAMA",
+    "tutar": 400
+  },
+  {
+    "id": "mhle9e2zp9wgt1",
+    "tarih": "2025-08-01",
+    "tur": "Gider",
+    "aciklama": "TELEFON HARCAMA",
+    "tutar": 150
+  },
+  {
+    "id": "mhle9e2zp9wgt2",
+    "tarih": "2025-08-01",
+    "tur": "Gider",
+    "aciklama": "SAGLIK RAPORU HARCAMA",
+    "tutar": 250
+  },
+  {
+    "id": "mhle9e2zp9wgt3",
+    "tarih": "2025-08-01",
+    "tur": "Gider",
+    "aciklama": "MEZARCI HARCAMA",
+    "tutar": 250
+  },
+  {
+    "id": "mhle9e2zp9wgt4",
+    "tarih": "2025-08-01",
+    "tur": "Gider",
+    "aciklama": "TERZI HARCAMA",
+    "tutar": 450
+  },
+  {
+    "id": "mhle9e2zp9wgt5",
+    "tarih": "2025-08-01",
+    "tur": "Gider",
+    "aciklama": "PAZAR HARCAMA",
+    "tutar": 800
+  },
+  {
+    "id": "mhle9e2zp9wgt6",
+    "tarih": "2025-08-01",
+    "tur": "Gider",
+    "aciklama": "KARGO HARCAMA",
+    "tutar": 300
+  },
+  {
+    "id": "mhle9e2zp9wgt7",
+    "tarih": "2025-08-01",
+    "tur": "Gider",
+    "aciklama": "KITAP DEFTER HARCAMA",
+    "tutar": 300
+  },
+  {
+    "id": "mhle9e2zp9wgt8",
+    "tarih": "2025-08-01",
+    "tur": "Gider",
+    "aciklama": "KITAP DEFTER HARCAMA",
+    "tutar": 650
+  },
+  {
+    "id": "mhle9e2zp9wgt9",
+    "tarih": "2025-08-01",
+    "tur": "Gider",
+    "aciklama": "PTT HARCAMA",
+    "tutar": 250
+  },
+  {
+    "id": "mhle9e2zp9wgt10",
+    "tarih": "2025-08-01",
+    "tur": "Gider",
+    "aciklama": "PTT HARCAMA",
+    "tutar": 255
+  },
+  {
+    "id": "mhle9e2zp9wgt11",
+    "tarih": "2025-08-01",
+    "tur": "Gider",
+    "aciklama": "PTT HARCAMA",
+    "tutar": 135
+  },
+  {
+    "id": "mhle9e2zp9wgt12",
+    "tarih": "2025-08-01",
+    "tur": "Gider",
+    "aciklama": "VAKIF KART HARCAMA",
+    "tutar": 1250
+  },
+  {
+    "id": "mhle9e2zp9wgt13",
+    "tarih": "2025-09-01",
+    "tur": "Gelir",
+    "aciklama": "MAAS",
+    "tutar": 22000
+  },
+  {
+    "id": "mhle9e2zp9wgt14",
+    "tarih": "2025-09-01",
+    "tur": "Gider",
+    "aciklama": "ZIRAAT KMH EKSTRE",
+    "tutar": 7820
+  },
+   {
+    "id": "mhle9e2zp9wgt16",
+    "tarih": "2025-09-01",
+    "tur": "Gider",
+    "aciklama": "ZIRAAT KART EKSTRE",
+    "tutar": 16000
+  },
+  {
+    "id": "mhle9e2zp9wgt18",
+    "tarih": "2025-09-01",
+    "tur": "Gider",
+    "aciklama": "AKBANK KMH EKSTRE",
+    "tutar": 8000
+  },
+  {
+    "id": "mhle9e2zp9wgt19",
+    "tarih": "2025-09-01",
+    "tur": "Gider",
+    "aciklama": "BES",
+    "tutar": 900
+  },
+  {
+    "id": "mhle9e2zp9wgt20",
+    "tarih": "2025-09-01",
+    "tur": "Gider",
+    "aciklama": "VAKIF KMH EKSTRE",
+    "tutar": 6000
+  },
+  {
+    "id": "mhle9e2zp9wgt21",
+    "tarih": "2025-09-01",
+    "tur": "Gider",
+    "aciklama": "AKBANK KMH EKSTRE",
+    "tutar": 64700
+  },
+  {
+    "id": "mhle9e2zp9wgt22",
+    "tarih": "2025-09-01",
+    "tur": "Gider",
+    "aciklama": "VAKIF KART EKSTRE",
+    "tutar": 20000
+  },
+  {
+    "id": "mhle9e2zp9wgt23",
+    "tarih": "2025-09-01",
+    "tur": "Gider",
+    "aciklama": "KIYAFET HARCAMA",
+    "tutar": 1600
+  },
+  {
+    "id": "mhle9e2zp9wgt24",
+    "tarih": "2025-09-01",
+    "tur": "Gider",
+    "aciklama": "KUMASCI HARCAMA",
+    "tutar": 350
+  },
+  {
+    "id": "mhle9e2zp9wgt25",
+    "tarih": "2025-09-01",
+    "tur": "Gider",
+    "aciklama": "BONCUK UYGAR HARCAMA",
+    "tutar": 1300
+  },
+  {
+    "id": "mhle9e2zp9wgt26",
+    "tarih": "2025-09-01",
+    "tur": "Gider",
+    "aciklama": "VAKIF KART HARCAMA",
+    "tutar": 520
+  },
+  {
+    "id": "mhle9e2zp9wgt27",
+    "tarih": "2025-09-01",
+    "tur": "Gider",
+    "aciklama": "PTT HARCAMA",
+    "tutar": 138
+  },
+  {
+    "id": "mhle9e2zp9wgt28",
+    "tarih": "2025-09-01",
+    "tur": "Gider",
+    "aciklama": "PTT HARCAMA",
+    "tutar": 207
+  },
+  {
+    "id": "mhle9e2zp9wgt29",
+    "tarih": "2025-09-01",
+    "tur": "Gider",
+    "aciklama": "HARCLIK HARCAMA",
+    "tutar": 200
+  },
+  {
+    "id": "mhle9e2zp9wgt30",
+    "tarih": "2025-09-01",
+    "tur": "Gider",
+    "aciklama": "TERLIK HARCAMA",
+    "tutar": 100
+  },
+  {
+    "id": "mhle9e2zp9wgt31",
+    "tarih": "2025-09-01",
+    "tur": "Gider",
+    "aciklama": "PARFUM HARCAMA",
+    "tutar": 800
+  }
 ]
