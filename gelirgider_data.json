@@ -5,5 +5,12 @@
     "tur": "Gider",
     "aciklama": "Uygar Akbank KMH",
     "tutar": 76000
+  },
+  {
+    "id": "mhlkcdhvnysk6a",
+    "tarih": "2025-04-06",
+    "tur": "Nakit Avans/Kredi (Taksitli)",
+    "aciklama": "Uygar Finans Kredi",
+    "tutar": 100000
   }
 ]
